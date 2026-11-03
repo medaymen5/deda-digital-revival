@@ -16,7 +16,7 @@ export const journal: JournalPost[] = [
         "text": "At the core of DEDA’s ethos lies a profound belief in the power of artisanal craft—an art form that weaves human skill, creativity, and heritage into every stitch. Today, we proudly announce a transformative collaboration with École Élégance, a beacon of couture education in Kélibia. This partnership is not just about acquiring skills; it is a shared mission to revive the artisan spirit, countering the tide of industrialization that risks leaving these crafts behind."
       },
       {
-        "type": "paragraph",
+        "type": "heading",
         "text": "The Story Behind École Élégance"
       },
       {
@@ -32,7 +32,7 @@ export const journal: JournalPost[] = [
         "image": "journal-ecole-elegance-2"
       },
       {
-        "type": "paragraph",
+        "type": "heading",
         "text": "One Shared Vision : Transmission of Savoir-faire"
       },
       {
@@ -48,7 +48,7 @@ export const journal: JournalPost[] = [
         "image": "journal-ecole-elegance-3"
       },
       {
-        "type": "paragraph",
+        "type": "heading",
         "text": "Continuing to Evolve Through Initiatives"
       },
       {
@@ -83,7 +83,7 @@ export const journal: JournalPost[] = [
         "text": "At DEDA, every creation begins with a conscious choice. Beyond aesthetics and craftsmanship, our work is guided by a commitment to responsible sourcing, environmental respect, and support for local communities. These values are not simply part of our philosophy—they shape the way we design, produce, and share our collections."
       },
       {
-        "type": "paragraph",
+        "type": "heading",
         "text": "Rooted in Local Sourcing"
       },
       {
@@ -107,7 +107,7 @@ export const journal: JournalPost[] = [
         "image": "journal-ethics-of-deda-2"
       },
       {
-        "type": "paragraph",
+        "type": "heading",
         "text": "Respect for the Environment"
       },
       {
@@ -131,7 +131,7 @@ export const journal: JournalPost[] = [
         "image": "journal-ethics-of-deda-3"
       },
       {
-        "type": "paragraph",
+        "type": "heading",
         "text": "Supporting Local Businesses"
       },
       {
@@ -147,7 +147,7 @@ export const journal: JournalPost[] = [
         "text": "These collaborations also reflect a broader commitment: valuing craftsmanship and human expertise over purely industrial production models. By working closely with artisans and small businesses, we contribute—modestly but meaningfully—to preserving traditional techniques that risk disappearing in the face of mass-produced and imported materials."
       },
       {
-        "type": "paragraph",
+        "type": "heading",
         "text": "A Conscious Vision of Fashion"
       },
       {
@@ -173,10 +173,6 @@ export const journal: JournalPost[] = [
     "cover": "journal-fatma-hergli-cover",
     "excerpt": "I went to school in 1985 to learn sewing and embroidery. I studied for three years in Hammamet, where embroidery is part of our traditions and daily life. From the beginning, embroidery stayed with me more than sewing. I",
     "blocks": [
-      {
-        "type": "image",
-        "image": "journal-fatma-hergli-1"
-      },
       {
         "type": "paragraph",
         "text": "I went to school in 1985 to learn sewing and embroidery. I studied for three years in Hammamet, where embroidery is part of our traditions and daily life. From the beginning, embroidery stayed with me more than sewing. I liked sitting quietly with the work, repeating the same movements until my hands felt at ease."
