@@ -213,7 +213,7 @@ export const journal: JournalPost[] = [
   },
   {
     "slug": "les-costumes-traditionnels-feminins-de-tunisie",
-    "title": "LES COSTUMES TRADITIONNELS FEMININS DE TUNISIE",
+    "title": "Les Costumes Traditionnels Féminins de Tunisie",
     "date": "2025-11-27",
     "category": "Heritage",
     "cover": "journal-costumes-traditionnels-cover",
