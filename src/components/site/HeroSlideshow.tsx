@@ -62,7 +62,7 @@ export function HeroSlideshow() {
         </div>
 
         <div className="flex items-center gap-5">
-          <span className="eyebrow text-paper/80">{SLIDES[index].caption}</span>
+          <span className="eyebrow text-paper/80">{SLIDES[index]?.caption}</span>
           <div className="flex gap-2">
             {SLIDES.map((s, i) => (
               <button

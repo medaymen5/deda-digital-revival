@@ -48,7 +48,7 @@ function ProductPage() {
   const { product } = Route.useLoaderData();
   const { currency, add } = useStore();
   const oneSize = product.sizes.length === 1;
-  const [size, setSize] = useState<string | null>(oneSize ? product.sizes[0] : null);
+  const [size, setSize] = useState<string | null>(oneSize ? (product.sizes[0] ?? null) : null);
   const [active, setActive] = useState(0);
   const [showSizeHint, setShowSizeHint] = useState(false);
 
